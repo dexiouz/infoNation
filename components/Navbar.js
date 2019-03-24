@@ -16,7 +16,7 @@ const Navbar = () => (
         background: #222e50;
         padding-top: 20px;
         padding-bottom: 20px;
-        flex-wrap: wrap
+        flex-wrap: wrap;
         
       }
       h2 {
